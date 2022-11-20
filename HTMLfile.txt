@@ -1,0 +1,9 @@
+HTML ELEMENTS
+
+Heading/Title
+Subheading
+Paragraph Texts
+Association subtitle
+Image files
+Link reference
+Lists if needed
