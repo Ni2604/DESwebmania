@@ -6,3 +6,4 @@ Font colour
 Indentation
 Background
 Coloured borders
+Padding
